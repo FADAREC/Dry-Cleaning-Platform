@@ -1,4 +1,7 @@
-# Dry Cleaning Platform MVP
+# Dry-Cleaning-Platform
+##### Developed locally and on Replit, deployed to Render.
+
+
 
 ## 1. Technology Stack (Modern, Fast, and Production-Ready)
 
