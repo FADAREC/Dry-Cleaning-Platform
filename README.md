@@ -38,7 +38,7 @@
 1. Clone Repo
 
 ```
-git clone https://github.com/FADAREC/Dry-cleaning-system-.git
+git clone https://github.com/FADAREC/Dry-Cleaning-Platform.git
 cd Dry-cleaning-system-
 ```
 2. Install Dependencies
